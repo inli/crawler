@@ -6,7 +6,7 @@
     <meta name="referrer" content="always">
     <meta name="google-site-verification" content="ok0wCgT20tBBgo9_zat2iAcimtN4Ftf5ccsh092Xeyw" />
     <title>
-    陌想看的电影(173)
+    陌想看的电影(171)
 </title>
     
     <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
@@ -271,7 +271,7 @@
             </a>
         </div>
         <div class="info">
-            <h1>陌想看的电影(173)</h1>
+            <h1>陌想看的电影(171)</h1>
             <ul>
                     
         <li><a href="/people/65038921/">电影主页</a></li>
@@ -381,7 +381,7 @@
         </div>
         <div class="mode">
             <span class="subject-num">
-                61-90&nbsp;/&nbsp;173
+                61-90&nbsp;/&nbsp;171
             </span>
             <ul class="grid-list-bar">
                 
@@ -397,27 +397,6 @@
 
 
 <ul class="list-view">
-        
-        <li id="list26416169" class="item">
-            <div class="item-show">
-                <div class="title">
-                    <a href="https://movie.douban.com/subject/26416169/">
-                        纯情 / 순정
-                    </a>
-                </div>
-                <div class="date">
-                2019-01-18
-                </div>
-            </div>
-            <div id="grid26416169" class="hide">
-                <div class="grid-date">
-                        <span class="intro">2016-02-24(韩国) / 都暻秀 / 金所泫 / 李大为 / 朱多英 / 延俊锡 / 朴海俊 / 柳淳哲 / 金芝荷 / 裴长秀 / 韩国 / 113分钟 / 纯情 / 剧情 / 爱情 / 李恩熙 / 韩语</span><br />
-                    <div class="movieInfo">
-                        
-                    </div>
-                </div>
-            </div>
-        </li>
         
         <li id="list11584016" class="item">
             <div class="item-show">
@@ -1029,7 +1008,7 @@
             </div>
         </li>
         
-        <li id="list24751763" class="item last">
+        <li id="list24751763" class="item">
             <div class="item-show">
                 <div class="title">
                     <a href="https://movie.douban.com/subject/24751763/">
@@ -1044,6 +1023,28 @@
             <div id="grid24751763" class="hide">
                 <div class="grid-date">
                         <span class="intro">2016-12-16(中国大陆) / 葛优 / 章子怡 / 浅野忠信 / 杜淳 / 钟欣潼 / 倪大红 / 赵宝刚 / 袁泉 / 闫妮 / 韩庚 / 霍思燕 / 杜江 / 王传君 / 钟汉良 / 马晓伟 / 吕行 / 乔笑笑 / 刘天阳 / 赵海涛 / 叶禾 / 周敬峰 / 杨露璐 / 松峰莉璃 / 松浦敬之 / 平田康之 / 张晓龙 / 郭晓小 / 小黑 / 张启煜 / 张歌 / 张琛 / 王唯 / 李思源 / 姜勇军 / 张志明 / 李冰 / 徐忱 / 周玲 / 阿十·戈里 / 中国大陆 / 中国香港 / 程耳 / 125分钟 / 剧情 / 动作 / 悬疑 / 程耳 Er Cheng / 汉语普通话 / 上海话 / 日语 / 英语</span><br />
+                    <div class="movieInfo">
+                        
+                    </div>
+                </div>
+            </div>
+        </li>
+        
+        <li id="list1309055" class="item last">
+            <div class="item-show">
+                <div class="title">
+                    <a href="https://movie.douban.com/subject/1309055/">
+                        哈利·波特与火焰杯 / Harry Potter and the Goblet of Fire
+                    </a>
+                        <span class="playable">[可播放]</span>
+                </div>
+                <div class="date">
+                2018-12-17
+                </div>
+            </div>
+            <div id="grid1309055" class="hide">
+                <div class="grid-date">
+                        <span class="intro">2005-11-06(英国) / 2005-11-18(中国大陆) / 丹尼尔·雷德克里夫 / 艾玛·沃森 / 鲁伯特·格林特 / 蒂莫西·斯波 / 邦妮·怀特 / 罗伯特·帕丁森 / 汤姆·费尔顿 / 梁佩诗 / 迈克尔·刚本 / 玛吉·史密斯 / 艾伦·瑞克曼 / 加里·奥德曼 / 拉尔夫·费因斯 / 奥利弗·费尔普斯 / 路易·多伊尔 / 布莱丹·格里森 / 乔榛 / 弗朗西斯·德·拉·图瓦 / 亨利·劳埃德-休斯 / 谢发丽·裘德胡里 / 哈利·米尔林 / Jason Buckle / 沃维克·戴维斯 / 马修·刘易斯 / Steve Claydon / 杰米·威莱特 / Tolga Safer / 杰夫·劳勒 / 罗彼·考特拉尼 / 大卫·田纳特 / 詹森·艾萨克 / 马克·威廉姆斯 / 艾芙珊·阿扎德 / John Sigurdson / Andrew Osbourne / 克蕾曼丝·波西 / Christian J. Simpson / 菲尔·塞尔维 / 阿德里安·劳林斯 / 玛格里·梅森 / 罗格·洛伊德-派克 / Daniel Larner / Simpson McKendry / 伊恩·怀特 / 安吉拉珂·曼蒂 / Sheila Allen / Tiana Benjamin / Charlotte Skeoch / 莎拉·哈里森 / Natalie Hallam / Jack Bagley / 罗伯特·哈迪 / 乔什·赫德曼 / Su Elliot / 戴文·穆雷 / 威廉姆·麦灵 / 阿尔弗雷德·伊诺奇 / 雪莉·亨德森 / Steve Mackey / 詹姆斯·菲尔浦斯 / 强尼·格林伍德 / 斯坦尼斯拉夫·雅涅夫斯基 / 大卫·布拉德利 / 普里德拉格·比耶拉克 / Ashley Artus / 贾维斯·考科尔 / 埃里克·赛克斯 / 杰拉丁·萨莫维尔 / 米兰达·理查森 / 英国 / 美国 / www.harrypotter.co.uk / 迈克·内威尔 / 157 分钟 / 哈利·波特与火焰杯 / 奇幻 / 冒险 / Steve Kloves / J.K. Rowling / 英语 / 法语</span><br />
                     <div class="movieInfo">
                         
                     </div>
@@ -1355,7 +1356,7 @@ for(var i = 0, l = accounts.length; i < l; i++) {
       
     
 
-    <!-- dae-web-movie--default-6bbd776d67-jsx8f-->
+    <!-- dae-web-movie--default-59b86b5969-6mn7f-->
 
   <script>_SPLITTEST=''</script>
 </body>

@@ -6,7 +6,7 @@
     <meta name="referrer" content="always">
     <meta name="google-site-verification" content="ok0wCgT20tBBgo9_zat2iAcimtN4Ftf5ccsh092Xeyw" />
     <title>
-    陌想看的电影(173)
+    陌想看的电影(171)
 </title>
     
     <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
@@ -271,7 +271,7 @@
             </a>
         </div>
         <div class="info">
-            <h1>陌想看的电影(173)</h1>
+            <h1>陌想看的电影(171)</h1>
             <ul>
                     
         <li><a href="/people/65038921/">电影主页</a></li>
@@ -381,7 +381,7 @@
         </div>
         <div class="mode">
             <span class="subject-num">
-                31-60&nbsp;/&nbsp;173
+                31-60&nbsp;/&nbsp;171
             </span>
             <ul class="grid-list-bar">
                 
@@ -693,7 +693,7 @@
             </div>
             <div id="grid26974053" class="hide">
                 <div class="grid-date">
-                        <span class="intro">2017-07-04(日本) / 石川界人 / 水濑祈 / 前野智昭 / 小仓唯 / 小野贤章 / 佐仓绫音 / 熊谷健太郎 / 三宅晴佳 / 花泽香菜 / 天崎滉平 / 户松遥 / 浪川大辅 / 真野步 / 汤浅枫 / 丹下樱 / 杉山纪彰 / 日本 / tsuredure-project.jp / 金子拓 / 13分钟 / 徒然喜欢你 / 喜剧 / 爱情 / 动画 / 浦畑达彦 Tatsuhiko Urahata / 若林稔弥 Toshiya Wakabayashi / 日语</span><br />
+                        <span class="intro">2017-07-04(日本) / 石川界人 / 水濑祈 / 前野智昭 / 小仓唯 / 小野贤章 / 佐仓绫音 / 熊谷健太郎 / 三宅晴佳 / 花泽香菜 / 天崎滉平 / 户松遥 / 浪川大辅 / 真野步 / 汤浅枫 / 杉山纪彰 / 丹下樱 / 日本 / tsuredure-project.jp / 金子拓 / 所俊克 / 13分钟 / 徒然喜欢你 / 喜剧 / 爱情 / 动画 / 浦畑达彦 Tatsuhiko Urahata / 若林稔弥 Toshiya Wakabayashi / 日语</span><br />
                     <div class="movieInfo">
                         
                     </div>
@@ -716,28 +716,6 @@
             <div id="grid25918690" class="hide">
                 <div class="grid-date">
                         <span class="intro">2014-10-07(日本) / 斋藤千和 / 前野智昭 / 小林裕介 / 森田成一 / 冈本信彦 / 诹访部顺一 / 下野纮 / 皆川纯子 / 金丸淳一 / 远藤广之 / 白川周作 / 榊原良子 / 柳田淳一 / 德本英一郎 / 竹内荣治 / 滨野大辉 / Kanemaru Junichi / 佐藤晴男 / 赤城进 / 宫本充 / 日本 / www.marv.jp/special/yona/ / 23分钟 / 拂晓的尤娜 / 动作 / 动画 / 冒险 / 猪爪慎一 / 草凪みずほ(原作) / 日语</span><br />
-                    <div class="movieInfo">
-                        
-                    </div>
-                </div>
-            </div>
-        </li>
-        
-        <li id="list27202985" class="item">
-            <div class="item-show">
-                <div class="title">
-                    <a href="https://movie.douban.com/subject/27202985/">
-                        怒晴湘西
-                    </a>
-                        <span class="playable">[可播放]</span>
-                </div>
-                <div class="date">
-                2019-05-05
-                </div>
-            </div>
-            <div id="grid27202985" class="hide">
-                <div class="grid-date">
-                        <span class="intro">2019-01-21(中国大陆) / 潘粤明 / 高伟光 / 辛芷蕾 / 曹卫宇 / 盛冠森 / 阿丽亚 / 张承 / 姜宝成 / 桑茗胜 / 莫涂弘哲 / 张熙 / 陈剑 / 李洪涛 / 侯桐江 / 陈瑾 / 巴多 / 冯丹菊 / 韩楠  / 边芳 / 郑乃涛 / 汪迪 / 夏小帆 / 杨珺钦 / 杜子蓝 / 朱利强 / 欧正宽 / 欧通锐 / 蒋许乐 / 叶恺文 / 韩庚泽 / 中国大陆 / 费振翔 / 35分钟 / 动作 / 奇幻 / 冒险 / 刘安琪 Angie Liu / 沈娟 Juan Shen / 葛瑞 Rui Ge / 天下霸唱 Muye Zhang / 汉语普通话</span><br />
                     <div class="movieInfo">
                         
                     </div>
@@ -1025,7 +1003,7 @@
             </div>
         </li>
         
-        <li id="list26882330" class="item last">
+        <li id="list26882330" class="item">
             <div class="item-show">
                 <div class="title">
                     <a href="https://movie.douban.com/subject/26882330/">
@@ -1039,6 +1017,27 @@
             <div id="grid26882330" class="hide">
                 <div class="grid-date">
                         <span class="intro">2016-10-31(韩国) / 都暻秀 / 蔡舒辰 / 李大为 / 南基爱 / 金正洙 / 韩国 / tvcast.naver.com/bepositive/ / 李炳宪 / 10分钟 / 积极的体质 / 剧情 / 爱情 / 韩语</span><br />
+                    <div class="movieInfo">
+                        
+                    </div>
+                </div>
+            </div>
+        </li>
+        
+        <li id="list26416169" class="item last">
+            <div class="item-show">
+                <div class="title">
+                    <a href="https://movie.douban.com/subject/26416169/">
+                        纯情 / 순정
+                    </a>
+                </div>
+                <div class="date">
+                2019-01-18
+                </div>
+            </div>
+            <div id="grid26416169" class="hide">
+                <div class="grid-date">
+                        <span class="intro">2016-02-24(韩国) / 都暻秀 / 金所泫 / 李大为 / 朱多英 / 延俊锡 / 朴海俊 / 柳淳哲 / 金芝荷 / 裴长秀 / 韩国 / 113分钟 / 纯情 / 剧情 / 爱情 / 李恩熙 / 韩语</span><br />
                     <div class="movieInfo">
                         
                     </div>
@@ -1350,7 +1349,7 @@ for(var i = 0, l = accounts.length; i < l; i++) {
       
     
 
-    <!-- dae-web-movie--default-6bbd776d67-8kvmw-->
+    <!-- dae-web-movie--default-59b86b5969-28ztv-->
 
   <script>_SPLITTEST=''</script>
 </body>

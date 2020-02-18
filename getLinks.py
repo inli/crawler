@@ -85,13 +85,13 @@ def savelink(movies):
     
     return
 
-
-movies=[]
-for i in range(0,151,30):
-    url = url_1 + str(i) + url_2
-    filename = 'douban'+str(i)+'.txt'
-    data = getHtml(url,headers,filename)
-    movies += getMovieName(data)
+def main():
+    movies=[]
+    for i in range(0,151,30):
+        url = url_1 + str(i) + url_2
+        filename = 'douban'+str(i)+'.txt'
+        data = getHtml(url,headers,filename)
+        movies += getMovieName(data)
     
-print(movies)
-savelink(movies)
+    print(movies)
+    savelink(movies)

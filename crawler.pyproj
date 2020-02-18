@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c1994602-9569-4fb9-90bd-a1536ae89de4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>test.py</StartupFile>
+    <StartupFile>novel.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="getLinks.py" />
+    <Compile Include="novel.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="tengxun.py">
       <SubType>Code</SubType>
     </Compile>
